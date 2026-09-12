@@ -98,12 +98,7 @@ void loop() {
     Serial.println(ledWarn);
   }
 
-   /*Serial.print(altConversion);
-    Serial.print(" ");
-    Serial.print(potRead);
-    Serial.print(" ");
-    Serial.println(ledWarn);
-*/
+   
     
     
 
